@@ -1,7 +1,8 @@
 {
   "name": "PaymoStyler",
   "version": "1.0",
-  "description": "Gives Paymo Georgia, Whitespace and larger font sizes. By balupton.com",
+  "description": "Chrome Extension to give Paymo Georgia, whitespace and larger font sizes.\nProject Page: http://github.com/balupton/Paymo-Styler",
+  "update_url": "http://github.com/balupton/Paymo-Styler/raw/master/updates.xml",
   "content_scripts": [
     {
       "matches": ["https://balupton.paymo.biz/*"],
