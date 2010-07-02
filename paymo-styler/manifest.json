@@ -1,0 +1,11 @@
+{
+  "name": "PaymoStyler",
+  "version": "1.0",
+  "description": "Gives Paymo Georgia, Whitespace and larger font sizes. By balupton.com",
+  "content_scripts": [
+    {
+      "matches": ["https://balupton.paymo.biz/*"],
+      "css": ["style.css"]
+    }
+  ]
+}

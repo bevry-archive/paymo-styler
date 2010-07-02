@@ -1,0 +1,82 @@
+html, body, pre {
+	font-family: Helvitica-Neue, Georgia !IMPORTANT;
+}
+
+div {
+	font-size: 14px !IMPORTANT;
+}
+
+table {
+	font-family: Georgia !IMPORTANT;
+	font-size: 120% !IMPORTANT;
+}
+table tr td {
+	padding-bottom: 5px !IMPORTANT;
+}
+td.label, td.action {
+	font-size: 80% !IMPORTANT;
+	padding-top: 4px !IMPORTANT;
+}
+div.textile {
+	color: #666 !IMPORTANT;
+	padding-top: 3px !IMPORTANT;
+}
+div.edit-add-task-form {
+	padding-top: 5px !IMPORTANT;
+}
+span.highlighted-container {
+	padding-top: 0 10px !IMPORTANT;
+}
+table.task-items-container td.toolbar {
+	width:5%;
+}
+table.task-items-container td.item {
+	width:75%;
+}
+table.task-items-container td.label {
+	width:10%;
+}
+table.task-items-container td.action {
+	width:10%;
+}
+
+div.edit-add-task-form div.inline-block {
+	padding: 10pt 15pt !IMPORTANT;
+}
+
+div.edit-add-task-form div.inline-block div.inline-block {
+	padding: 0pt !IMPORTANT;
+}
+
+h2.page-title {
+	font-size: 28px !IMPORTANT;
+}
+h2.page-title * {
+	font-size: 14px !IMPORTANT;
+}
+
+input, input:hover, input:focus, textarea, textarea:hover, textarea:focus {
+	font-family: Georgia, Helvetica, Arial !IMPORTANT;
+	font-size: 16px !IMPORTANT;
+	font-weight: normal !IMPORTANT;
+	padding: 5px !IMPORTANT;
+	background: white !IMPORTANT;
+}
+select {
+	font-family: Georgia, Helvetica, Arial !IMPORTANT;
+	font-size: 14px !IMPORTANT;
+	font-weight: normal !IMPORTANT;
+	padding: 5px !IMPORTANT;
+}
+input[name="task[due_date]"] {
+	font-size: 14px !IMPORTANT;
+	padding: 3px !IMPORTANT;
+	min-width: 100px !IMPORTANT;
+}
+.yui-button, button {
+	min-width: 100px !IMPORTANT;
+}
+.yui-button a, button {
+	line-height: 18pt !IMPORTANT;
+	min-height: 18pt !IMPORTANT;
+}
